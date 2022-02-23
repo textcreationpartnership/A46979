@@ -1,0 +1,407 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An essay concerning a vacuum Wherein is endeavoured to be demonstrated, that a vacuum interspersum runs through the world, and is more or less in all bodies. By a lover of the corpuscular philosophy.</title>
+            <author>Jackson, Joseph, fl. 1695-</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 55 KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46979</idno>
+            <idno type="STC">Wing J85A</idno>
+            <idno type="STC">ESTC R219986</idno>
+            <idno type="EEBO-CITATION">99831426</idno>
+            <idno type="PROQUEST">99831426</idno>
+            <idno type="VID">35889</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46979)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35889)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2050:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An essay concerning a vacuum Wherein is endeavoured to be demonstrated, that a vacuum interspersum runs through the world, and is more or less in all bodies. By a lover of the corpuscular philosophy.</title>
+                  <author>Jackson, Joseph, fl. 1695-</author>
+               </titleStmt>
+               <extent>x, 3-50, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Andrew Bell at the Cross-keys and Bible in Cornhil, near Stocks-market,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A lover of the corpsucular philosophy = Joseph Jackson. Cf. Wing.</note>
+                  <note>Text begins on p. 3, which is A2.</note>
+                  <note>With an advertisement bound at end.</note>
+                  <note>Reproduction of the original in the Edinburgh University Library, Edinburgh.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Philosophy --  Early works to 1800.</term>
+               <term>Christian literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35889:1"/>
+            <pb facs="tcp:35889:1"/>
+            <p>AN ESSAY Concerning a VACUUM.</p>
+            <p>Wherein Is endeavoured to be de<g ref="char:EOLhyphen"/>monſtrated, that a <hi>va<g ref="char:EOLhyphen"/>cuum Interſperſum</hi> runs through the World, and is more or leſs in all Bodies.</p>
+            <p>
+               <hi>By a Lover of the Corpuſcular Philoſophy.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Andrew Bell</hi> at the Croſs-keys and Bible in <hi>Cornhil,</hi> near <hi>Stocks-market.</hi> 1697.</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:35889:2"/>
+            <p>
+               <figure>
+                  <p>RENOVATE ANIMOS</p>
+                  <p>Earl of <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </p>
+               </figure>
+            </p>
+         </div>
+         <div type="preface">
+            <pb n="iii" facs="tcp:35889:2"/>
+            <head>THE PREFACE TO THE READER, By another Hand.</head>
+            <p>THE Doctrine of a <hi>Vacuum</hi> interſperſed more or leſs in all B<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>es, (which is the Subject of the enſuing <hi>Eſſay</hi>) hath been gene<g ref="char:EOLhyphen"/>rally
+<pb n="iv" facs="tcp:35889:3"/>
+look'd upon as a Paradox in Nature, and fitter to be exploded the <hi>Schools,</hi> than refuted by Argu<g ref="char:EOLhyphen"/>ment. For the Authority of <hi>Ariſto<g ref="char:EOLhyphen"/>tle, Carteſius,</hi> and ſuch great Names, hath ſo ſway'd the Affections of many; that not allowing themſelves that Philoſophick Freedom, which is their Natural Right, they have in<g ref="char:EOLhyphen"/>ſenſibly enſlaved their Reaſon, the freeſt and nobleſt Faculty of the Soul of Man, to thoſe Magiſterial Dicta<g ref="char:EOLhyphen"/>tors. And yet 'tis well known to ſuch, as are vers'd in the Old and New Philoſophy, that tho the Aſſer<g ref="char:EOLhyphen"/>tion of a <hi>Vacuum</hi> hath not gain'd ſo many Proſelytes as the contrary Opinion, there have yet been ſome, both in former Ages and in this, who with great Evidence of Reaſon have defended it.</p>
+            <p>
+               <pb n="v" facs="tcp:35889:3"/>
+               <hi>Epicurus,</hi> however miſtaken in his <hi>Idea</hi> of <hi>Atoms,</hi> and their for<g ref="char:EOLhyphen"/>tuitous Coalition into the Curious and Exquiſite Frame of the <hi>Macrocoſm;</hi> yet proceeded upon a Principle, nei<g ref="char:EOLhyphen"/>ther Precarious nor Improbable, in the maintaining of a <hi>Vacuum:</hi> for this was the great Topick he argued from, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp;c. If there be ſuch a Thing as Motion in the World,</hi> (and he muſt contradict the Senſe of Mankind that denies it) <hi>there muſt of neceſſity be a</hi> Vacuum. Which Argument carried ſo much Strength with it, in the Judgment of that contemned, yet acute Philoſopher, <hi>Lucretius,</hi> that he labours to inſtil it into the Minds of all his Readers, in theſe excellent Lines, <hi>Lib. 1. de Rerum Naturâ;</hi>
+            </p>
+            <pb n="vi" facs="tcp:35889:4"/>
+            <q>
+               <lg>
+                  <l>Aut igitur motu privandum eſt Corpora quaeque;</l>
+                  <l>Aut eſſe admiſtum dicendum eſt rebus inane;</l>
+                  <l>Unde initium primum capiat res quae<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> movendi.</l>
+               </lg>
+               <p>Tranſlated thus by <hi>J. Evelyn.</hi>
+               </p>
+               <lg>
+                  <l>Then either we to Bodies muſt allow</l>
+                  <l>No Motion, or mixt <hi>Vacuum</hi> avow,</l>
+                  <l>Scatter'd thrô all the Parts; from whence each Thing</l>
+                  <l>Doth its firſt Principle of <hi>Mo<g ref="char:EOLhyphen"/>tion</hi> bring.</l>
+               </lg>
+            </q>
+            <p>
+               <pb n="vii" facs="tcp:35889:4"/>I know 'twill be objected againſt <hi>Lu<g ref="char:EOLhyphen"/>cretius,</hi> as it hath been formerly; That he is not to be regarded, becauſe he was an Atheiſtical and Profane Author. But if this be ſufficient to reject his ſound Reaſoning in other Matters, where Truth lies on his ſide; let the Objectors tell me, what Hea<g ref="char:EOLhyphen"/>then Philoſopher had not his <hi>Noevi</hi> in ſome Points or other, as well as <hi>Lucretius?</hi> I write not this to vin<g ref="char:EOLhyphen"/>dicate <hi>Lucretius</hi> where he erred, but to ſhew, that if the Exception be of force in the preſent Caſe againſt him; it muſt be admitted in others alſo a<g ref="char:EOLhyphen"/>gainſt many more; yea, I preſume, againſt all.</p>
+            <p>To give a few Inſtances; <hi>Zeno</hi> tied God to a Series of Second Cauſes, inevitably liable to the Decrees of
+<pb n="viii" facs="tcp:35889:5"/>
+Fatality. <hi>Plato</hi> was for levelling all in his Common-wealth, and for the promiſcuous uſe of the Nuptial Bed. <hi>Ariſtotle</hi> held the Eternity of the World, both <hi>a Parte ante, &amp; a Parte poſt.</hi> And <hi>Carteſius</hi> himſelf maintain'd as great an Error, in aſſerting an <hi>Indefinite World.</hi> It was an excellent Saying of <hi>Au<g ref="char:EOLhyphen"/>guſtine,</hi> 
+               <q>
+                  <hi>In a<g ref="char:EOLhyphen"/>rundine ſterili at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> aridâ,</hi>
+                  <note place="margin">De Bapt. con<g ref="char:EOLhyphen"/>tra Donat. <hi>l.</hi> 6. <hi>c.</hi> 1.</note> &amp;c. A Grape may ſome<g ref="char:EOLhyphen"/>times hang upon a dry and fruitleſs Stalk. And, Truth is Truth <hi>(ſaith another)</hi> wherever I find it. If <hi>Peter,</hi> if the <hi>Sibyls,</hi> if the Devils ſhall ſay,<note place="margin">King<hi>'s Lect.</hi> 40. <hi>upon</hi> Jonah.</note> 
+                  <hi>that Chriſt is the Son of the Li<g ref="char:EOLhyphen"/>ving
+<pb n="ix" facs="tcp:35889:5"/>
+God,</hi> it is not in one a Truth, and a Lie in the other.</q>
+            </p>
+            <p>Of later Years <hi>Gaſſendus, Charl<g ref="char:EOLhyphen"/>ton, Ward,</hi> and divers others have held a <hi>Vacuum;</hi> and tho their Number has been few in Compariſon of the contrary minded; yet the Weight of their Arguments is heavy enough to preponderate with the un<g ref="char:EOLhyphen"/>biaſs'd, and to turn the Scales againſt their Oppoſites.</p>
+            <p>What the Ingenious <hi>Eſſayer</hi> hath perform'd in this little <hi>Tract,</hi> to<g ref="char:EOLhyphen"/>wards a Demonſtration of a <hi>Vacu<g ref="char:EOLhyphen"/>um;</hi> the ſober and unprejudiced Rea<g ref="char:EOLhyphen"/>der may beſt inform himſelf, by a fair Peruſal and impartial Examina<g ref="char:EOLhyphen"/>tion. However, this, I think, I may modeſtly ſay, <hi>That as the Diſcourſe
+<pb n="x" facs="tcp:35889:6"/>
+it ſelf appears to have been the Iſſue of a Ripe and Pregnant Thought; ſo it ſtood in no need of ſuch a Preliminary as this, to uſher it into the World.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="essay">
+            <pb n="3" facs="tcp:35889:6"/>
+            <head>An ESSAY concerning a <hi>VACUUM.</hi>
+            </head>
+            <p>EVer ſince I read <hi>Gaſſendus,</hi> with ſome other late Improvers of the antient Corpuſcular Phy<g ref="char:EOLhyphen"/>ſiology, I could never ſubſcribe the Doctrine of <hi>Abſolute Plenitude</hi> a<g ref="char:EOLhyphen"/>mong Bodies: and I am of Opinion, that the Arguments and Experiments, that have been of late Years imploy'd in this matter; amount to a Demonſtra<g ref="char:EOLhyphen"/>tion, that there can be no ſuch thing. For from ſuch a Plenitude of Matter as is contended for, both by the <hi>Peri<g ref="char:EOLhyphen"/>pateticks</hi> and <hi>Carteſians,</hi> it will follow, that all Bodies are of equal Weight and Denſity, and every one of ſuch an ab<g ref="char:EOLhyphen"/>ſolute Cloſeneſs of Parts, as not to ad<g ref="char:EOLhyphen"/>mit the leaſt imaginable Vacuity: which
+<pb n="4" facs="tcp:35889:7"/>
+will go near to make all Bodies alike; it being the various Modification of Parts, with the different degrees of Ra<g ref="char:EOLhyphen"/>rity and Denſity, that makes all the Difference amongſt Bodies. But now, if all Matter be crowded together, al<g ref="char:EOLhyphen"/>moſt infinitely cloſer than any Marble-Stone, there can be no different Modi<g ref="char:EOLhyphen"/>fication, no Motion, no Diſtinction a<g ref="char:EOLhyphen"/>mongſt Bodies at all. This turns the Creation into a Chaos, Paradiſe into thick Darkneſs, and a beautiful World into a Monſter.</p>
+            <p>Mr. <hi>Boyle,</hi> the greateſt Patron of Me<g ref="char:EOLhyphen"/>chanical Philoſophy, that was (perhaps) in the World, throughout all his Pneu<g ref="char:EOLhyphen"/>matick Experiments; is every where ſo modeſt and ſo cautious, that he does not aſſert a <hi>Vacuum,</hi> even where one would think he has reaſon enough to do it: but at the ſame time it is eaſy to ob<g ref="char:EOLhyphen"/>ſerve, that his Judgment, and the main Streſs of his Argumentation lies intire<g ref="char:EOLhyphen"/>ly that way; and in ſome of his later Writings he is more poſitive, as I ſhall note preſently. But Biſhop <hi>Ward</hi> is
+<pb n="5" facs="tcp:35889:7"/>
+very bold; for in his incomparable Let<g ref="char:EOLhyphen"/>ter to Biſhop <hi>Wilkins,</hi> in which he ex<g ref="char:EOLhyphen"/>amines Mr. <hi>Hobbs</hi> his Principles, he ſays, he doubts not but in the Age to come, the Motion of the Earth and a <hi>Vacuum</hi> will be acknowledg'd equally with the Circulation of the Blood, and be look'd upon as abſurd to deny any of the three. His words are theſe, <hi>Nullus ego dubito, quin ſeculo ſequenti aequè fore portentoſum, ſi quis vel Circulationem Sanguinis, vel Motum Terrae, vel Vacuum negaverit.</hi> But I would not willingly engage my ſelf in a <hi>Logomachia,</hi> or Strife of Words, as ſometimes happens, when there is an Agreement in the Thing. I ſhall there<g ref="char:EOLhyphen"/>fore firſt endeavour to clear the Terms from Ambiguity, and ſhew what kind of <hi>Vacuum</hi> I contend for, and what ſort of Plenitude I deny: for both <hi>Vacuum</hi> and <hi>Plenum</hi> may admit of a Diſtinction. Dr. <hi>Charleton,</hi> who follows <hi>Gaſſendus</hi> at the Heels, diſtinguiſhes a <hi>Vacuum</hi> into <hi>diſſeminatum</hi> and <hi>coacervatum;</hi> Others uſe the Terms <hi>interſperſum</hi> and <hi>conti<g ref="char:EOLhyphen"/>nuum,</hi> &amp;c. And then it will follow,
+<pb n="6" facs="tcp:35889:8"/>
+that Plenitude alſo muſt admit of ſome ſuch like Diſtinction: for it may either be conſider'd as abſolute, univerſal and every where alike, or elſe ſuch as the various Texture of Bodies will allow, which muſt be different, according to the different degrees of Rarity and Denſity. Now this latter may be called <hi>Plenitudo laxa,</hi> and the former <hi>Plenitudo perfecta;</hi> the one will allow of a <hi>Vacuum inter<g ref="char:EOLhyphen"/>ſperſum,</hi> and the other of no <hi>Vacuum</hi> at all.</p>
+            <p>Upon the account of this looſe and open Plenitude (perhaps) it has been, that the Notion of all Places being full, has obtain'd ſo much in the World, and that almoſt every one can ſay, <hi>Non da<g ref="char:EOLhyphen"/>tur Vacuum;</hi> which in a qualified ſenſe is very true, becauſe there is no Place to be found, in which there is not Air, or ſomething elſe. For there is no Chaſm, nor wide gaping Diſtance among Bo<g ref="char:EOLhyphen"/>dies; ſince Gravity, which is eſſential to Matter, keeps all things together, and contiguous one to another, as cloſe as their reſpective Natures will allow:
+<pb n="7" facs="tcp:35889:8"/>
+For the Air it ſelf is heavy, whatever hath been ſaid to the contrary, and even the pureſt <hi>Ether</hi> would preſs downward, if there were not groſſer Matter below: but the heavieſt Sub<g ref="char:EOLhyphen"/>ſtance always ſinking, makes the lighter aſcend. So that univerſal Gravitation ſuffers no empty Corners any where in the World, no <hi>Hiatus</hi> among the Parts of Matter; but all Space determinate or perceptible is ſupplied with Body, or Matter of one ſort or another: ſupplied, I ſay, but not ſtrictly and abſolutely fill'd; tho in a larger ſenſe all Places may be ſaid to be ſo full, that there can<g ref="char:EOLhyphen"/>not be a <hi>Vacuum coacervatum:</hi> as for Example;</p>
+            <p>When we ſee a Veſſel fill'd with Grains of Wheat till it can hold no more, we do not ſcruple to ſay, that Veſſel is full of Wheat, tho there are many thou<g ref="char:EOLhyphen"/>ſands of empty Spaces, which the Grains of Wheat cannot fill. The like may be ſaid of all other Bodies conſiſting of va<g ref="char:EOLhyphen"/>riouſly figured Particles, which can never adequately fill any Space whatſoever;
+<pb n="8" facs="tcp:35889:9"/>
+tho the cloſer ſuch Particles are con<g ref="char:EOLhyphen"/>join'd, and the more exactly fitted one to another, the nearer they do approach to a Plenitude; but an abſolute Pleni<g ref="char:EOLhyphen"/>tude is impoſſible, which is the thing to be proved. And by this time the Rea<g ref="char:EOLhyphen"/>der may apprehend what I aim at.</p>
+            <p>In the next place then I advance this Negative Propoſition, namely, That all Places are not equally full. As for In<g ref="char:EOLhyphen"/>ſtance; Let us ſuppoſe two Veſſels fill'd, the one with Water, and the other with Quickſilver; the <hi>Pleniſts</hi> will have them both to be full, and that in the utmoſt ſtrictneſs of Speech: and I affirm they are neither of them ſo; for tho they are both fill'd up to the Brim, yet both the Water and Quickſilver are porous Bodies, and the one much more than the other, there being a vaſt difference in Weight and Subſtance. And if a thouſand Particles of the one lie within the Compaſs of an hundred in the other, then that hundred muſt be further diſtant: and there will ever be more or leſs intermediate Space, according to the Openneſs, or Cloſeneſs
+<pb n="9" facs="tcp:35889:9"/>
+of Parts. So that unleſs we can find a Medium to fill thoſe intermediate Spaces, it cannot be denied, but they muſt re<g ref="char:EOLhyphen"/>main empty.</p>
+            <p>But in Anſwer to this, that which is uſually ſaid in the firſt place, is, That Air fills all theſe intermediate Spaces, and leaves no Place empty. To which I reply, 'Tis impoſſible, that ſo thin and open a Body as Air ſhould fill any Place whatſoever; becauſe it ſelf wants filling, and it cannot give that which it has not; it cannot furniſh out another Body to an abſolute Plenitude, which it is further from having, than that Body it is to fill; as if one ſhould think to fill the Cavities of Water or Quickſilver with Spunge, or with a Ho<g ref="char:EOLhyphen"/>ney-Comb; for Air is a far more lax and open Body than either of theſe: ſo that we ſhall want another Medium to fill the Cavities of this; and when we have it, we ſhall yet want a third to fill the Pores of that, and ſo infinitely.</p>
+            <p>In ſhort, unleſs we can find a Medi<g ref="char:EOLhyphen"/>um, that has in it ſelf no Pores, to fill
+<pb n="10" facs="tcp:35889:10"/>
+the Cavities of other Bodies, thoſe Ca<g ref="char:EOLhyphen"/>vities muſt ſtill remain empty; for there cannot be an Abſolute Plenitude, where any Spaces are not fill'd; and they can never be intirely fill'd, but by ſuch a Medium as has in it ſelf no Pores nor Cavities at all; and ſo muſt be more cloſe and ſolid than the pureſt Gold, or any Subſtance that we know of in the World.</p>
+            <p>But here again we are put off with <hi>Materia ſubtilis,</hi> which is (it ſeems) a certain Ethereal Subſtance, that pene<g ref="char:EOLhyphen"/>trates and pervades the minuteſt and in<g ref="char:EOLhyphen"/>moſt Cavities of all Bodies, and adapting it ſelf to the Figure of every Pore, ad<g ref="char:EOLhyphen"/>equately fills them all.</p>
+            <p>To which I anſwer, That this Ethe<g ref="char:EOLhyphen"/>real Subſtance is really nothing elſe but a purer ſort of Air: So that what has been ſaid of groſs and common Air is likewiſe true of this, and ſo much the more, as it is dilated to a greater Exten<g ref="char:EOLhyphen"/>ſion. Who would attempt to fill the Cavities of Cork with a Net ſpread out to the greateſt Extent? And if a
+<pb n="11" facs="tcp:35889:10"/>
+quantity of Wool or Flax, being well thruſt together, does admit of many thouſands of empty Spaces, how much more when the ſame is expanded to far greater Bounds? So that if the groſs and thick Air, which we breathe in, by reaſon of its Tenuity, cannot furniſh out other Bodies to an abſolute Plenitude; how much leſs the pure Ether, which in the ſuperiour Re<g ref="char:EOLhyphen"/>gions is millions of times more tenuious; and the higher you aſcend, the Rare<g ref="char:EOLhyphen"/>faction ſtill increaſes without Stop or Limitation.</p>
+            <p>However, let us ſuppoſe for once, that this <hi>Materia ſubtilis</hi> is ſomething diſtant both from Air and Ether, and that it runs through the Cranies and Vacuities of all Subſtance: this ſame Matter muſt conſiſt of certain Par<g ref="char:EOLhyphen"/>ticles or Atoms, and theſe muſt have ſome ſort of Shape or Figure, either Globular, Cubical, Cylindrical, Ta<g ref="char:EOLhyphen"/>pering, or the like; that is, they muſt either be regular Particles, or elſe irre<g ref="char:EOLhyphen"/>gular; or at leaſt a Mixture of both.
+<pb n="12" facs="tcp:35889:11"/>
+Now it is impoſſible that ever theſe ſhould lie ſo cloſe, as to exclude Vacuity. One might as well ſuppoſe with <hi>Epi<g ref="char:EOLhyphen"/>curus,</hi> that ſuch <hi>Primordia rerum</hi> ſhould, by their various Shuffles and Rencoun<g ref="char:EOLhyphen"/>ters, jump into a World at firſt; as that ever afterwards they ſhould put them<g ref="char:EOLhyphen"/>ſelves into a Poſture of abſolute Pleni<g ref="char:EOLhyphen"/>tude. Cubes indeed of all other Fi<g ref="char:EOLhyphen"/>gures are the fitteſt to lie cloſe, and to exclude Vacancies: but then, as they are the leaſt apt for Motion, ſo the Ca<g ref="char:EOLhyphen"/>vities they are to fill muſt either be ex<g ref="char:EOLhyphen"/>actly Cubical, and withal of equal Di<g ref="char:EOLhyphen"/>menſions with the Cubes that are to fill them, or there will ſtill remain certain <hi>Interſtitia.</hi> But the Veins and Hollows that are in all Bodies, ſuch as Wood, Stone, Metals, <hi>&amp;c.</hi> are not pretended to be regular, and therefore the fineſt Par<g ref="char:EOLhyphen"/>ticles of Matter, of whatſoever Figure, can never exactly fill them.</p>
+            <p>It may perhaps be here objected, That our common Air, and theſe Ethereal Par<g ref="char:EOLhyphen"/>ticles are ſo mixt and adapted each to other, as to compoſe a Medium fit to
+<pb n="13" facs="tcp:35889:11"/>
+repleniſh all Space, and effectually to prevent a <hi>Vacuum.</hi> But this is no more than what might be ſaid of Air mixt with Vapour, or any other thin and fluid Medium whatſoever: and the ſame Anſwer ſerves for all, unleſs they can find a Medium without Pores. For whether it be ſimple or compounded, the Argument will center here, and come at laſt to this Iſſue; That either the Me<g ref="char:EOLhyphen"/>dium is porous, or it is not: if it be, it cannot fill the Pores of other Bodies, as hath been ſaid; there cannot be more in the Effect than in the Cauſe, and that which has no Plenitude cannot give it. But if the Medium be not porous at all, what then? Why then truly, as ſoon as that is demonſtrated, we muſt take new Meaſures; but in the mean time I think we can demonſtrate the quite contrary.</p>
+            <p>I remember not long ago, in diſcourſe with a Gentleman of good Learning, and a great Carteſian, I brought the Matter to this ſame Teſt: he urg'd his <hi>Materia ſubtilis,</hi> or Ethereal Subſtance
+<pb n="14" facs="tcp:35889:12"/>
+(for he made no difference) as Nature's Univerſal Agent to prevent a <hi>Vacuum.</hi> I demanded whether it was a porous Subſtance or not; he anſwered, No, it was entirely cloſe without any Pores at all. Why then, ſaid I, it is more ſolid than the pureſt Gold; he agreed, and ſaid it was ſo; and there we left it, be<g ref="char:EOLhyphen"/>ing both very well pleas'd: he thought he had gain'd his Point, and I was content to yield upon ſuch honourable Terms.</p>
+            <p>The truth is, as there is no way to prevent a <hi>Vacuum,</hi> but by ſuch a fluid Medium as has no Pores, and ſo far the Gentleman was in the right: So on the other hand, ſuch a Medium is im<g ref="char:EOLhyphen"/>poſſible, it is againſt plain Matter of Fact, and the greateſt <hi>Chimera</hi> in the World.</p>
+            <p>Firſt, it is impoſſible that variouſly fi<g ref="char:EOLhyphen"/>gur'd Particles ſhould touch one another in ſo many Points, as to leave no empty Spaces: and eſpecially if this Ethereal Matter conſiſt of <hi>Globuli</hi> (as ſome talk) for theſe can touch one another (ſays
+<pb n="15" facs="tcp:35889:12"/>
+               <hi>Euclid</hi>) in one Point only, and ſo all the reſt will be empty Space. And, ſe<g ref="char:EOLhyphen"/>condly, it is contrary to Matter of Fact and common Experience: for the ſolid<g ref="char:EOLhyphen"/>eſt things are always heavieſt, and if Ether be ſuch, it will preſs down to the loweſt parts, and lighter things will mount above it. Gold would then be oblig'd to ſwim, which it never did yet; and we our ſelves and every looſe thing upon the Earth would be carried up into the ſuperiour Regions, and float above like Chips in Water, or Pebbles in Quickſilver. Such Extravagancies are the natural Conſequences of ſuppo<g ref="char:EOLhyphen"/>ſing Ethereal Matter without Pores: it confounds the Nature of Things, and turns the World up-ſide down in a lite<g ref="char:EOLhyphen"/>ral ſenſe.</p>
+            <p>But on the contrary, we have it from good Authority, that the Solidity of Gold and common Air differ in Propor<g ref="char:EOLhyphen"/>tion as 16150 to one. And the Learned Mr. <hi>Bentley</hi> (according to the Experi<g ref="char:EOLhyphen"/>ments of Mr. <hi>Boyle</hi> and Mr. <hi>Newton</hi>) ſcruples not to aver, that the ordinary
+<pb n="16" facs="tcp:35889:13"/>
+Air in which we live, is of ſo thin a Compoſition, that for one part of its Dimenſions which is material and real Subſtance, there are 16149 Parts, or more, meer Emptineſs and Nothing. And the higher you aſcend, where it is leſs compreſs'd by the ſuperiour Air, the Rarefaction ſtill increaſes: So that at the height of ſome few Miles from the Earth, it is computed to have a Million Parts of empty Space, for one of real Subſtance. But then at the height of one Terreſtrial Semidiameter, it is of that wonderful Tenuity, that if a Sphere of common Air, of one Inch Diame<g ref="char:EOLhyphen"/>ter, ſhould be expanded to the thinneſs of that Ether, it would more than take up the vaſt Orb of <hi>Saturn.</hi> See here the unaccountable Solidity of pure E<g ref="char:EOLhyphen"/>ther, and how wild a Fancy it muſt be to think it without Pores or empty Spaces!</p>
+            <p>In a word, he that denies a <hi>Vacuum</hi> obliges himſelf to reject at once the whole Corpuſcular Philoſophy, and muſt make the beſt he can of the Pe<g ref="char:EOLhyphen"/>ripatetick
+<pb n="17" facs="tcp:35889:13"/>
+Jargon. If therefore the <hi>Car<g ref="char:EOLhyphen"/>teſians</hi> do allow that all Bodies are com<g ref="char:EOLhyphen"/>poſed of Atoms, Cubical, Spherical, Co<g ref="char:EOLhyphen"/>nical, Cylindrical, <hi>&amp;c.</hi> and at the ſame time contend for Abſolute Plenitude; they couple two Notions together which naturally deſtroy one another. As if one ſhould imagine that a Veſſel fill'd with Dice and ſmall Shot, together with contorted Cones, twiſted Wires and Worms, winding Helixes, ſpiral and turbinated Springs, beſides an infi<g ref="char:EOLhyphen"/>nite Variety of irregular Figures; and that all theſe ſhould be promiſcuouſly blended, or artificially laid together, without intermediate empty Spaces.</p>
+            <p>Hitherto I have argued the Neceſ<g ref="char:EOLhyphen"/>ſity of a <hi>Vacuum</hi> from the different Texture of Natural Bodies, and from the various Figures of their compo<g ref="char:EOLhyphen"/>nent Particles. Let us now conſider more particularly, yet briefly, the bu<g ref="char:EOLhyphen"/>ſineſs of Rarity and Denſity, and ſee how they ſtand affected in this matter, and what Account the differing Parties give of their Cauſes: And firſt let us
+<pb n="18" facs="tcp:35889:14"/>
+here a Learned French Author in theſe words.</p>
+            <q>
+               <p>
+                  <hi>Initium ſumo à Denſitate &amp; Raritate, tantas difficultates Carteſii &amp; Ariſtotelis ſequacibus parientibus: Et ſtatuo Corpus unum alio rarius eſſe, cum majore Vacuo<g ref="char:EOLhyphen"/>rum diſperſorum numero, aut iis grandio<g ref="char:EOLhyphen"/>ribus, praeditum eſt; ſic aër aquâ rarior, aqua è contra aëre denſior: quia aër plura &amp; majora obtinet vacua quàm aqua; &amp; haec aëre craſſior eſt: quia pauciora, mino<g ref="char:EOLhyphen"/>ra<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> poſſidet.</hi>
+               </p>
+            </q>
+            <p>I begin with Rarity and Denſity, which do ſo greatly perplex the Followers of <hi>Carteſius</hi> and <hi>Ariſtotle.</hi> And I judg one Body is more rare than another, when it hath either more or greater interſperſed <hi>Vacuums.</hi> Thus Air is thinner than Water, becauſe its <hi>Vacuums</hi> are more numerous and large than thoſe of Water. And Water is thicker than Air, becauſe it hath fewer and leſs <hi>Vacuums</hi> than Air.</p>
+            <p>This is an eaſy and natural Solution: it puts no Sham upon our Faculties, be<g ref="char:EOLhyphen"/>ing ſo very clear and intelligible. Let us now ſee what Account the two con<g ref="char:EOLhyphen"/>tending
+<pb n="19" facs="tcp:35889:14"/>
+Parties give of this Matter. And firſt that of the <hi>Ariſtotelians</hi> is this: <hi>Raritatem &amp; Denſitatem dicunt eſſe qua<g ref="char:EOLhyphen"/>litates, vel formas accidentales, ex poten<g ref="char:EOLhyphen"/>tia Materiae eductas.</hi> That Rarity and Denſity are Qualities, or Accidental Forms, educed out of the Power of Matter. If this be good Senſe (of which I greatly doubt) it is as much as to ſay, that Rarity and Denſity are we neither know what, nor how they come to paſs. Secondly then, let us hear the <hi>Carteſians,</hi> who ſay, <hi>Multò plus dari Materiae ſubtilis in Corporibus raris, quàm in craſſioribus &amp; condenſatis.</hi> That Rare Bodies have much more Subtile Matter, than thoſe which are more Groſs and Denſe. This indeed is not only intelli<g ref="char:EOLhyphen"/>gible, but very true: for I do not doubt but there is more Air or thin Subſtance (call it what you pleaſe) within the Cavities of Cork, than in the Pores of Lead. But this does not ſolve the Diffi<g ref="char:EOLhyphen"/>culty, unleſs it could be proved that a rarefied Body, together with the <hi>Mate<g ref="char:EOLhyphen"/>ria ſubtilis</hi> therein comprehended, had
+<pb n="20" facs="tcp:35889:15"/>
+equal Cloſeneſs of Parts with a Body more condenſed, of which the quite contrary (I think) is demonſtrable: for the more pure and ſubtile that any Body is, the leſs capable it is of filling a Place; and that which has empty Spaces of its own, can never fill the Cavities of another Body, as hath been ſaid. But let us hear what Account our Modern French Author, St. <hi>Romain,</hi> gives of this Matter. <q>
+                  <hi>Cur haec materia ſubtilior, &amp; delicatior ſit omni aliâ ma<g ref="char:EOLhyphen"/>teriâ, quum omnis materia aequaliter craſſa eſt &amp; ſolida? Verum materiam hanc, in<g ref="char:EOLhyphen"/>quiunt eſſe ſummè rarefactam; Nihilomi<g ref="char:EOLhyphen"/>nus tamen eadem ſemper manet difficultas; nempe, unde magis rarefacta ſit? Dicent id ex eo oriri, quòd partes non adeo ſunt compreſſae. Itaque magis ab invicem di<g ref="char:EOLhyphen"/>ſtabunt; quocirca dantur vacua &amp; inter<g ref="char:EOLhyphen"/>valla: Niſi enim illa dentur, aequè com<g ref="char:EOLhyphen"/>preſſae ſunt ac in materia condenſata: Sed ſi aequè ſint compreſſae, non magis etiam ab invicem ſunt remotae: Et ſi denique non magis ab invicem ſint remotae, non ſunt amplius rarefactae, &amp; haec tandem materia
+<pb n="21" facs="tcp:35889:15"/>
+ſubtilis non minus craſſa erit ac quaelibet alia.</hi>
+               </q> Why is this Matter more fine and ſubtile than all other Matter, ſeeing all Matter is equally denſe and ſolid? But this Matrer, ſay they, is exceeding<g ref="char:EOLhyphen"/>ly Rarefied: Nevertheleſs the Difficulty is ſtill the ſame, <hi>viz.</hi> how comes it to be more Rarefied? They will tell us, it proceeds from the Non-compreſſion of the Parts; but then their Diſtance will be the greater, and ſo they grant there are <hi>Vacuums</hi> and Intervals: For unleſs theſe are granted, the Parts are as much compreſſed as in condenſed Matter. But if they are as much com<g ref="char:EOLhyphen"/>preſſed, they are not more remote from one another; and if they are not more remote from one another, they are not more Rarefied; and ſo this ſubtile Mat<g ref="char:EOLhyphen"/>ter will prove as denſe as any other Matter.</p>
+            <p>Thus far the Learned French-man, of which the Sum is this; No Rare<g ref="char:EOLhyphen"/>faction without diſtance of Parts, no diſtance of Parts without Interval, no In<g ref="char:EOLhyphen"/>terval without a <hi>Vacuum.</hi> And where<g ref="char:EOLhyphen"/>as
+<pb n="22" facs="tcp:35889:16"/>
+the <hi>Materia ſubtilis</hi> is ſuppoſed to fill all, it is the leaſt of all capable, as be<g ref="char:EOLhyphen"/>ing the moſt Rarefied; ſo that there can be no Rarefaction without a <hi>Va<g ref="char:EOLhyphen"/>cuum.</hi>
+            </p>
+            <p>Hither may be referred two Inſtances, the one of Rarefaction, and the other of Condenſation, both which do ſtrong<g ref="char:EOLhyphen"/>ly plead for a <hi>Vacuum;</hi> namely, the <hi>Torricellian</hi> Experiment, and that of a Wind-Gun.</p>
+            <p>As for the <hi>Torricellian</hi> Experiment, it is ſo well known at this day, being the ſame with the Weather-Glaſſes now in uſe, that I need not deſcribe it. This is certain, that the Mercury ſubſiding, the upper part of the Tube is deſerted, and not ſo much Subſtance left remaining, as to oppoſe the Mercury in its return back to the upper end, in caſe the Tube be inclined to a ſide. However, it is not pretended that the ſaid upper part of the Tube is quite empty: for whilſt the Mercury is a pouring in at firſt, ſome ſmall Bubbles will ſtill eſcape together with it; and when the Tube is inverted,
+<pb n="23" facs="tcp:35889:16"/>
+and the Mercury ſunk down, thoſe Bubbles of Air will extend their Springs and enlarge, endeavouring (as it were) to fill the empty Part with a ſort of Air rarefied and expanded far beyond the natural Texture of common Air, and conſequently the Particles muſt be more remote from each other, and the inter<g ref="char:EOLhyphen"/>mediate Spaces larger. Thus the ſeve<g ref="char:EOLhyphen"/>ral Turns of a Watch-Spring are at greater diſtance one from another, when at liberty, and Force removed, than when the ſame is compreſs'd or wound up together.</p>
+            <p>As for the <hi>Vacuum Boyleanum,</hi> it is, in the nature of it, the ſame thing, but im<g ref="char:EOLhyphen"/>prov'd to a greater height, and illuſtrated by many curious Experiments. The Veſ<g ref="char:EOLhyphen"/>ſel is of great Capacity, containing above 30 Gallons; and when the Air is exhauſt<g ref="char:EOLhyphen"/>ed, Animals cannot live in it, nor Inſects fly, nor Caterpillars crawl, nor Flame burn, nor Syringes draw up Water, nor Fire run along a Train of dried Gunpow<g ref="char:EOLhyphen"/>der. Theſe are lively Demonſtrations of an extreamly rarefied Medium, that the
+<pb n="24" facs="tcp:35889:17"/>
+Parts of Matter are thin ſcatter'd, and that therefore, as the French Author ſays, there muſt be <hi>Vacua &amp; Inter<g ref="char:EOLhyphen"/>valla.</hi>
+            </p>
+            <p>The Wind-Gun is a curious Invention, but a dangerous Tool in the Hands of an ill-diſpoſed Perſon, ſince it does prodi<g ref="char:EOLhyphen"/>gious Execution with very ſmall Noiſe. Biſhop <hi>Burnet</hi> in his Letters of Travel, tells of a Smith at <hi>Baſil,</hi> who had ſo far improv'd the Invention, that he could make one to ſhoot ten times with once charging, and yet, having a mind to give a home Blow, one might diſcharge the whole Force at once. I never ſaw any but one, which was about the ſize of an ordinary Fowling-piece, having a double Barrel of Braſs, one lying with<g ref="char:EOLhyphen"/>in another, being cloſe at the Muzzle, and a Space reſerved between the Con<g ref="char:EOLhyphen"/>vexity of the one Barrel and the Con<g ref="char:EOLhyphen"/>cavity of the other. It had in the Stock or Breech an Air-Pump, which was to convey Air into that Cavity or Space between the two Barrels, and to keep it there as long as one pleaſed. It was
+<pb n="25" facs="tcp:35889:17"/>
+diſcharged by a Tricker like another Gun, and had an incredible Force. By working at the Pump the Gun was charged, and it took a great Strength, eſpecially after a certain time, when the Air in the Cavity began to grow ſtiff and would not eaſily admit of any more.</p>
+            <p>Now it is ſaid that Air may in this manner be compreſs'd till it be ſixty times the thickneſs and conſiſtence of common Air; but if leſs, it is ſufficient for what I deſign, namely, that Air thus condens'd, has leſs Vacuity than com<g ref="char:EOLhyphen"/>mon Air, and therefore common Air muſt have more than it, and pure Ether moſt of all. Whatever is capable of Compreſſion muſt include Vacuity: for either there muſt be room for the Par<g ref="char:EOLhyphen"/>ticles of Matter to retire into, when they are forced together, or elſe they muſt be crowded one into another, which is Penetration of Dimenſions. And if they tell me a thouſand times that <hi>Materia ſubtilis</hi> fills all, I return as oft, <hi>Nil dat quod non habet.</hi> It may
+<pb n="26" facs="tcp:35889:18"/>
+indeed run through all other Bodies, but it can never fill them, becauſe it is not full it ſelf: and that which is ſo greatly rarefied can never thicken or condenſe any other Subſtance to an <hi>Abſolute Ple<g ref="char:EOLhyphen"/>nitude.</hi>
+            </p>
+            <p>Having endeavoured to ſhew, that an <hi>Abſolute Plenitude</hi> is inconſiſtent with the Mechanical Affections of Matter; I am now to conſider how Motion can be perform'd without a <hi>Vacuum.</hi> It was <hi>Gaſſendus</hi> his great Principle, No <hi>Vacuum,</hi> no Motion: and it is the ge<g ref="char:EOLhyphen"/>neral Senſe of Mankind, that a Body cannot ſtir without room, and that Room to move in nothing elſe but a <hi>Vacuum.</hi> If I were placed in the middle of a Marble Stone, I ſhould make but ſmall haſte to get out: and yet Marble is not by far ſo cloſe, as the World muſt be ſuppoſed to be without a <hi>Vacuum.</hi> Sup<g ref="char:EOLhyphen"/>poſe ſome Place were fill'd with Dice, or Cubical Bodies ſet cloſe and in order: how ſhould thoſe that lie under be ca<g ref="char:EOLhyphen"/>pable of moving, unleſs room be made by removing others? And how ſhould
+<pb n="27" facs="tcp:35889:18"/>
+others be removed that are as faſt lock'd up as they, and all beſet and ſurroun<g ref="char:EOLhyphen"/>ded ſtill with other Cubes, to the ut<g ref="char:EOLhyphen"/>moſt Extent, and no empty Space any where?</p>
+            <p>To which if it be replied, that this indeed is true in the caſe of hard and ſolid Bodies, but not where there is a ſoft and yielding Medium, ſuch as Air, which gives a free and eaſy Paſſage to any kind of Motion; I would only de<g ref="char:EOLhyphen"/>mand what it is that makes the Medium ſo eaſy and yielding? For <hi>Omnis mate<g ref="char:EOLhyphen"/>ria aequaliter craſſa eſt &amp; ſolida.</hi> The Atoms of Air are as ſolid as thoſe of Steel, and it is only Vacuity that makes Softneſs. We ſee that the larger and more numerous the Pores and Vacancies of any Subſtance are, as in Wool, Spunge, and the like, the more ſoft and yielding are ſuch Bodies.</p>
+            <p>But let us for once ſuppoſe (how ab<g ref="char:EOLhyphen"/>ſurd ſoever it be) that this ſame Me<g ref="char:EOLhyphen"/>dium that we breathe in, is an abſolute <hi>Plenum,</hi> and withal, that a Body may be capable of moving therein: the Con<g ref="char:EOLhyphen"/>ſequence
+<pb n="28" facs="tcp:35889:19"/>
+will be one of theſe two: Ei<g ref="char:EOLhyphen"/>ther that ſuch Motion will be continued to the utmoſt Bounds and Selvedg of the World, or elſe there will be Penetration of Dimenſions. Let but a Fly ſtir a Wing or a Foot, it muſt beat back the Air, and that Air muſt either move the contiguous Particles, or elſe be thruſt into them, there being no empty Room to get into, but all ſolid Subſtance. So that if you will not allow two Bodies in one Place, you muſt be forced to grant that a Motion once begun muſt move the adjoining Parts of the Me<g ref="char:EOLhyphen"/>dium, and thoſe again others contiguous unto them, and ſo ſucceſſively to the furtheſt Extent of Matter; which if it be not infinite, the Motion at laſt muſt end <hi>in Vacuo;</hi> and if it be infinite, the Motion is endleſs. Chooſe now which you pleaſe, an Infinite World, or a <hi>Vacuum.</hi> It has been obſerved, that the diſcharge of great Guns has been heard above an hundred Miles, but without a <hi>Vacuum</hi> it would not ſtop at an hundred Millions. For in <hi>Abſolute Plenitude</hi>
+               <pb n="29" facs="tcp:35889:19"/>
+a Motion once begun muſt continue, ſo long as there is contiguous Matter to be moved; and if Plenitude be infi<g ref="char:EOLhyphen"/>nite, Motion will be ſo too.</p>
+            <p>On the contrary, in ſuch a porous and ſpringy Medium as we ſuppoſe the Air to be, how eaſily is this Matter ſolv'd! When Motion begins, it forces the Air that is next it, and that again the next, but ſtill in a leſs and leſs de<g ref="char:EOLhyphen"/>gree till the Motion ceaſes: becauſe there is not ſuch a Continuity of Parts as to preſerve the Motion any long time. For the Springs of Air have room to yield and give way: and when the bending Force is removed, they return again to their former State <hi>potentiâ ſua reſtitutivâ.</hi> Now the thinner that any Medium is, the fainter is any violent Motion made therein, and ſooner at an end. Which is the reaſon that a Gun being ſhot off on the top of the <hi>Alps,</hi> or <hi>Pico Teneriff,</hi> ſounds but like the breaking of a ſmall Stick; but being diſcharged at the bottom of thoſe Moun<g ref="char:EOLhyphen"/>tains, by reaſon of thicker Air and Re<g ref="char:EOLhyphen"/>percuſſion,
+<pb n="30" facs="tcp:35889:20"/>
+it roars like Cannon-ſhot, and continues for a conſiderable time. But in caſe of <hi>Abſolute Plenitude,</hi> the ſhooting of a Burtree-Gun would be heard among the fixed Stars, and the Motion would be continued beyond the <hi>Primum Mobile,</hi> if ſuch a thing there be, and never ceaſe till Matter be no more, or till there be a <hi>Vacuum;</hi> which leads me to conſider <hi>Des Cartes</hi>'s fine<g ref="char:EOLhyphen"/>ſpun. Notion of the World's being indefinite.</p>
+            <p>That famous Philoſopher of <hi>France,</hi> finding that empty Space would not con<g ref="char:EOLhyphen"/>ſiſt with his Principles, and yet conſider<g ref="char:EOLhyphen"/>ing that a bounded World would infer a <hi>Vacuum,</hi> if not within it, yet at leaſt be<g ref="char:EOLhyphen"/>yond it; he thinks to put us cunningly off with the Term <hi>Indefinite,</hi> which can import no more than this, that we do not know how far the World extends. But muſt our Ignorance in that Caſe be a Ground for him to impoſe upon us in another? Muſt we indeed own that the World is neither finite nor infinite? I beg his Pardon. I remember I have
+<pb n="31" facs="tcp:35889:20"/>
+met with ſome, who would have per<g ref="char:EOLhyphen"/>ſwaded me, that there are certain Que<g ref="char:EOLhyphen"/>ſtions, which cannot be truly anſwered neither in the Affirmative nor the Nega<g ref="char:EOLhyphen"/>tive; as, Whether Quantity be diviſible <hi>in infinitum?</hi> I grant there is great Dif<g ref="char:EOLhyphen"/>ficulty on both ſides, and ſo there is in a thouſand other Caſes and Queſtions: How elſe ſhould there be ſo many Diſ<g ref="char:EOLhyphen"/>putes and Controverſies in the World? Truth is many times hard to find; but where there is a direct Contradiction, it muſt be on one ſide or the other. For as two contradictory Propoſitions can<g ref="char:EOLhyphen"/>not both be true: So the Affirmative and Negative of any one Propoſition cannot both be falſe. He that ſays there is a <hi>Vacuum,</hi> and he that ſays there is none; as it is certain that both theſe do not ſpeak Truth, ſo it is no leſs certain that one of them does. Let the Queſtion then be put, Whether the World is infinite, or not? If this be true in the Affirmative, it is certainly falſe in the Negative, and <hi>è contra.</hi> What is neither finite nor infinite is a <hi>Chimaera,</hi>
+               <pb n="32" facs="tcp:35889:21"/>
+and this Indefiniteneſs of the World is a Sham, and no better than an Occult Quality.</p>
+            <p>The Infiniteneſs of the World and its Eternity are both unfriendly to Re<g ref="char:EOLhyphen"/>ligion: they ſeize the Divine Attri<g ref="char:EOLhyphen"/>butes for the uſe of the Creatures, and rob God of his Honour to beſtow it upon Duſt and Aſhes. What more il<g ref="char:EOLhyphen"/>luſtrious Characters can belong to the Divine Nature than to be Immenſe and Everlaſting? The Learned French-man knew this well enough, which made him think upon a ſhift to ſave both his Hypotheſis and Religion harmleſs. But it will not do the feat: for as the World had a Beginning, ſo it has its Bounds, and will have a Period. <hi>Heaven and Earth ſhall paſs away, but the Word of God abideth.</hi> The Notion of a Deity com<g ref="char:EOLhyphen"/>prehends all Perfection, but an infinite World is it ſelf incomprehenſible: and how two Infinites or two Incomprehen<g ref="char:EOLhyphen"/>ſibles are conſiſtent, is I think beyond Human Underſtanding. It remains therefore that the World is finite, and has
+<pb n="33" facs="tcp:35889:21"/>
+its Boundaries; and then I demand what is beyond thoſe Boundaries but Empti<g ref="char:EOLhyphen"/>neſs and Nothing?</p>
+            <p>I come now to conſider <hi>Gravitation,</hi> and to ſee how it affects the preſent Queſtion. It is that which not only fills all Places, as cloſe as the various Texture of Bodies will permit, as was ſaid before; but in ſundry Experiments it alſo diſcovers a <hi>Vacuum,</hi> and par<g ref="char:EOLhyphen"/>ticularly by the riſing of Water in a Pump to a certain height, and no fur<g ref="char:EOLhyphen"/>ther. Now it is but of late Years that the Gravitation of the Air has been ſpoken of: for in all the Reign of <hi>Ariſtotle</hi> we hear not one word of it, and to the famous <hi>Galileo</hi> it is, that we are indebted for this remarkable Diſcovery; which however it might be accidental, yet he was the firſt that obſerved the Matter of Fact, and aſſigned the true Cauſe of that very odd <hi>Phenomenon,</hi> contrary to a prevailing Maxim, <hi>Nil gravitat in ſuo Elemento.</hi>
+            </p>
+            <p>
+               <pb n="34" facs="tcp:35889:22"/>The Buſineſs was in a certain place to raiſe Water by a Pump; and this Learned Man (it ſeems) was preſent, whether as a Director or Spectator on<g ref="char:EOLhyphen"/>ly, is not greatly material. But ſo it was, that the Pump being finiſhed, and all things tite and well fixt, he obſer<g ref="char:EOLhyphen"/>ved that the Water aſcended cleverly to the height of 35 Foot and ſome<g ref="char:EOLhyphen"/>what more, but there it took a reſty Fit, and would not ſtir an Inch fur<g ref="char:EOLhyphen"/>ther, let them ply the Pump never ſo hard. What (ſays he) is the <hi>Fuga Vacui</hi> quite run out of Breath? Does Nature's Abhorrence of a <hi>Vacuum</hi> ex<g ref="char:EOLhyphen"/>tend to 35 Foot, and not to 36? This deſerves to be conſider'd.</p>
+            <p>Now a Pump is a Philoſophical and very inſtructive Engine, in which the Water (which is a heavy Body) aſ<g ref="char:EOLhyphen"/>cends againſt Nature, and follows the Sucker for company. But what is it that makes the Water ſo complaiſant? Why Nature (ſay the <hi>Peripateticks</hi>) has taken up a Reſolution that ſhe will not
+<pb n="35" facs="tcp:35889:22"/>
+ſuffer a <hi>Vacuum:</hi> ſo that when the Sucker is drawn up, and the Air can<g ref="char:EOLhyphen"/>not get by to fill the place, Nature has laid her Commands upon the Water, and away ſhe follows in all haſte <hi>ob fugam Vacui.</hi> This Reaſon has long obtain'd. But why ſhould Nature ſtop thus on a ſudden? <q>For, ſays Mr. <hi>Boyle,</hi> Na<g ref="char:EOLhyphen"/>ture will quietly enough permit a <hi>Vacuum</hi> rather than lift up the Wa<g ref="char:EOLhyphen"/>ter above the height of 35 Foot, which ſhe is by no means able to perform, and of which the World was ignorant till the time of <hi>Galileo.</hi>
+               </q> So that, it ſeems, there is a certain Juncture of Time and Circumſtances, in which Nature lays aſide all her Spleen and Abhorrence of a <hi>Vacuum:</hi> and this very Experiment of a Pump, which for many Years, or rather Ages, has been urged as the ſtrongeſt Argument againſt a <hi>Vacuum,</hi> is a plain Demonſtration that there is one.</p>
+            <p>The true Reaſon then of this Effect is Gravitation, or the incumbent Weight
+<pb n="36" facs="tcp:35889:23"/>
+of Air, that raiſes the Water to a cer<g ref="char:EOLhyphen"/>tain pitch, but is not able to raiſe it higher. For it is a Fallacy to think that the Water aſcends by Attraction: it is Pulſion, or Force from below, that thruſts the Water upward, and not any Hooks or Ligatures by which the Sucker takes hold of the Air, or the Air of the Water; which may be thus further explained.</p>
+            <p>Firſt then, the common Air that we live in and have above our Heads, does preſs upon the whole Face of the Earth and Water with a certain Weight, which is, for the moſt part, every where equal and uniform, with allowance for the ſeveral Changes of Weather, according to which the Air is lighter or heavier, as is daily obſerved by the riſing and falling of the Mercury in the Weather-Glaſſes. And then the higher you aſcend, it is ſtill the light<g ref="char:EOLhyphen"/>er, as was obſerved by the Learned Dr. <hi>Power,</hi> who tried the <hi>Torricellian</hi> Experiment both at the top and bottom
+<pb n="37" facs="tcp:35889:23"/>
+of <hi>Hallifax</hi>-Hill in <hi>Yorkſhire,</hi> and found a conſiderable difference.</p>
+            <p>Secondly, A Pump is always ſup<g ref="char:EOLhyphen"/>plied with Stagnant Water at the bot<g ref="char:EOLhyphen"/>tom, in a Well or Pit digged for that purpoſe. And being thus fixed and compleat, you draw the Sucker, and this rarefies the Air below it, becauſe that which is above cannot paſs by the Sucker, and ſo get down. And then continuing ſtill to draw, you rarefy the Air more and more, till at laſt it grows ſo thin, that it leaves room for the Water to aſcend, which is forced up<g ref="char:EOLhyphen"/>wards by the Preſſure of the Air upon the Stagnant Water in the Pit below. And it will riſe juſt ſo high till there be an equal Ballance between the Preſ<g ref="char:EOLhyphen"/>ſure of the incumbent Air without, and the Weight of the Water within; of which the mean Proportion is 35 Foot, never reaching 36, nor ever ſo little as 34, but varies within that Com<g ref="char:EOLhyphen"/>paſs according to the Temper of the Weather, as hath been ſaid. And when
+<pb n="38" facs="tcp:35889:24"/>
+it comes to an <hi>Equilibrium,</hi> Nature cares not one Farthing whether there be a <hi>Vacuum</hi> or no.</p>
+            <p>It now only remains that I conſider this Matter by the Rule of <hi>Staticks,</hi> or the different Weight of Bodies, as they preponderate one another in the Scales. For, according to the Doctrine of <hi>Abſolute Plenitude,</hi> all Bodies ſhould be of equal Weight, ſo that a Cubical Inch of Lead (for Example) ſhould not out-weigh a Cubical Inch of Cork: but this being againſt Experience, What Reaſon do the <hi>Pleniſts</hi> give for ſo great a difference? Why, they ſay, the dif<g ref="char:EOLhyphen"/>ference of Specifick Gravity proceeds from the various degrees of Rarity and Denſity. Well, we ſay the ſame. But from whence proceeds that Varie<g ref="char:EOLhyphen"/>ty? They ſay, <hi>ex potentia Materiae,</hi> and we ſay, from more or leſs Vacui<g ref="char:EOLhyphen"/>ty, as hath been already diſcourſed. For that which makes the difference is nothing elſe but empty Pores and Cavi<g ref="char:EOLhyphen"/>ties
+<pb n="39" facs="tcp:35889:24"/>
+among the Parts of Matter: and hence it is that Cork is ſo much lighter than Lead. In like manner, all other Bodies differ in Weight, according to their proportion of Subſtance, or ac<g ref="char:EOLhyphen"/>cording as the Parts of Matter are more or leſs compacted, which is no<g ref="char:EOLhyphen"/>thing elſe but different degrees of Emp<g ref="char:EOLhyphen"/>tineſs, the cloſer Subſtance being the heavier; and the more of Cavity or Porouſneſs there is in any Body, it is ſtill the lighter, always ſuppoſing equal Dimenſions. This being plain Matter of Fact, I ſuppoſe our Adverſaries will not deny it: but then comes that won<g ref="char:EOLhyphen"/>derfully officious <hi>Materia ſubtilis,</hi> and fills all. This and the Indefiniteneſs of the World are two Philoſophical Strains, deviſed on purpoſe to banter and out-face a Meridian Truth: and it is unaccountable, that ſo fine a Wit as <hi>Des Cartes</hi> was, could not ſee the Shallowneſs of theſe Shifts, and the Ne<g ref="char:EOLhyphen"/>ceſſity of admitting a <hi>Vacuum.</hi>
+            </p>
+            <p>
+               <pb n="40" facs="tcp:35889:25"/>Concerning this Ethereal Subſtance, or ſuperfine Matter, I have ſaid enough already, and have ſhewed, that it is not capable of filling any Place what<g ref="char:EOLhyphen"/>ſoever: I have now only this to add, that it muſt have Weight, as all other Matter has: it is not a Spiritual but a Corporeal Subſtance, and therefore muſt weigh proportionably to its Bulk. So that as much of it, as at any time is comprehended within the Cavities of Cork, or any other Subſtance, muſt gravitate jointly with that Subſtance: and therefore if the preſence of that Ethereal Matter, or whatever it be that penetrates Bodies, made an abſo<g ref="char:EOLhyphen"/>lute Fulneſs, then all Bodies of equal Dimenſions would ſtill be equally hea<g ref="char:EOLhyphen"/>vy; and ſo a ſquare Inch of Cork, and another of Lead laid in the Ballance, would keep the Scales <hi>in Equilibrio.</hi> For whereas this Ethereal Subſtance is ſuppoſed by our Adverſaries to fill all Cavities, and to make all Bodies equally full, it will follow that a Cube
+<pb n="41" facs="tcp:35889:25"/>
+of Cork, together with its included Ether, muſt be as full of Matter as a Cube of Lead of the ſame Dimenſion; and conſequently muſt have equal So<g ref="char:EOLhyphen"/>lidity and Cloſeneſs of Parts, which will of neceſſity infer equal Weight upon the Scales; there being no reaſon in the World why two Bodies of e<g ref="char:EOLhyphen"/>qual Solidity and Compactneſs ſhould not have the ſame Specifick Gravity. But now if Lead be twenty times heavier than Cork (which is the leaſt) it muſt contain twenty times the Quan<g ref="char:EOLhyphen"/>tity of Matter, that is, twenty ſub<g ref="char:EOLhyphen"/>ſtantial Particles for one. And the Di<g ref="char:EOLhyphen"/>menſions being equal, it muſt follow that in Lead, twenty Particles of Mat<g ref="char:EOLhyphen"/>ter are contain'd in the ſame Space or Compaſs, for which there can be al<g ref="char:EOLhyphen"/>lowed but one Particle of the Cork, and ſo one has as much Room in this, as twenty in the other. So that the Buſineſs comes to this Iſſue, either a <hi>Vacuum</hi> or Penetration of Dimenſions. For if one Particle have the Room of
+<pb n="42" facs="tcp:35889:26"/>
+twenty, then either theſe twenty are thruſt one into another, which is im<g ref="char:EOLhyphen"/>poſſible, or elſe that one is placed at a diſtance from thoſe about it. But if one Particle be placed at a diſtance from another, then is there empty Space be<g ref="char:EOLhyphen"/>tween, that is, a <hi>Vacuum; quod erat demonſtrandum.</hi>
+            </p>
+         </div>
+         <div type="conclusion">
+            <pb n="43" facs="tcp:35889:26"/>
+            <head>THE CONCLUSION.</head>
+            <p>THere is one thing I forgot to mention in its proper place, and ſo I ſhall put it here for a Concluſion. The <hi>Carteſians</hi> are wont to urge their Notion of a Body againſt this of a <hi>Vacuum.</hi> Simple Extenſion, according to them, is that alone which conſti<g ref="char:EOLhyphen"/>tutes Corporeity: ſo that whatſoever is extended in Length, Breadth and Thickneſs, muſt be a Body: and be<g ref="char:EOLhyphen"/>cauſe a <hi>Vacuum</hi> may be ſuppoſed to have theſe Dimenſions, they will not allow of any ſuch thing.</p>
+            <p>
+               <pb n="44" facs="tcp:35889:27"/>To this I anſwer:</p>
+            <p>Firſt; One may with equal, if not far greater Reaſon, object againſt their Notion, than they againſt a <hi>Vacuum,</hi> that being precarious and arbitrary, and this reſting upon clear Evidence. And if I have demonſtrated a <hi>Vacuum</hi> (as I think I have) then let their No<g ref="char:EOLhyphen"/>tion of Simple Extenſion ſhift for it ſelf. Who gave them Authority to impoſe upon the World a Notion, of which there is no Neceſſity, no Evi<g ref="char:EOLhyphen"/>dence? A <hi>Vacuum</hi> is neceſſary to give way to Motion, ſince a cloſe Conſti<g ref="char:EOLhyphen"/>pation of Parts throughout the Univerſe will never admit of it. And then it is evident there can be no degrees, no Variety of Rarity and Denſity with<g ref="char:EOLhyphen"/>out a <hi>Vacuum,</hi> ſince all muſt be equally denſe and abſolutely full, as hath been ſhewed. And as it is neceſſary to allow a <hi>Vacuum</hi> within the World, ſo much more to admit one without or
+<pb n="45" facs="tcp:35889:27"/>
+beyond it, otherwiſe Matter would be infinite; and if ſo, I know not why it may not as well be Eternal; and thus at laſt we ſhall make the World to be God himſelf, as ſome <hi>Theiſts</hi> are ſaid to do. Now let the <hi>Pleniſts</hi> ſhew as great Neceſſity, and as good Evidence for Simple Extenſion, as hath been, and may yet further be ſhewed for a <hi>Vacuum,</hi> and it will deſerve Conſi<g ref="char:EOLhyphen"/>deration.</p>
+            <p>Secondly; The antient Corpuſcular Philoſophy, ſettling a diſtinct Notion of a Body, makes it to be a <hi>Subſtance impenetrably extended,</hi> which hath nothing belonging to it but Magni<g ref="char:EOLhyphen"/>tude, Figure, Texture and Motion, as Dr. <hi>Cudworth</hi> ſhews with great Learn<g ref="char:EOLhyphen"/>ing in his <hi>Intellectual Syſtem.</hi> Now this takes away all Confuſion, and ſets every thing in clear Light. For firſt, it caſts off thoſe unintelligible Forms and Qualities of the <hi>Ariſtote<g ref="char:EOLhyphen"/>lians,</hi> which ſeem to be ſo many Spi<g ref="char:EOLhyphen"/>rits
+<pb n="46" facs="tcp:35889:28"/>
+poſſeſſing (as it were) thoſe Bo<g ref="char:EOLhyphen"/>dies to which they are ſaid to belong it ſhews how far Body can go, and where Incorporeal Subſtance begins. Secondly, it diſtinguiſhes a Body from the Space that it poſſeſſeth, which Simple Extenſion does not: for any Room that a Body fills, is juſt as much extended as the Body that fills it, but is not the ſame thing. Thirdly, it diſtinguiſhes a Body from a Spirit, which is a Subſtance penetrable, ac<g ref="char:EOLhyphen"/>cording to Dr. <hi>More:</hi> For that Learned Man defines a Spirit to be a Subſtance penetrable and indiſcerpible, and a Bo<g ref="char:EOLhyphen"/>dy diſcerpible and impenetrable; ſo that he makes Impenetrability eſſential to a Body, without taking notice of Extenſion. However, I doubt not, both he and others do allow Extenſion proper to a Body, but I deny it to be the adequate Notion of it, ſince it does not diſtinguiſh Body from Space: and he that will not allow of that Di<g ref="char:EOLhyphen"/>ſtinction, may ſay (if he pleaſes) that
+<pb n="47" facs="tcp:35889:28"/>
+a Man differs not from the Chair he ſits in, or the Room he takes up. And why muſt we ſubſcribe to <hi>Des Cartes</hi> againſt the common Senſe of Mankind? ſince it is well known that that Gentleman has admitted ſundry things into his Philoſophy, not becauſe they are probable, but becauſe they agree with his <hi>Hypotheſis;</hi> witneſs the meer Mechaniſm and Inſenſibility of Brutes, which few believe, and moſt Men laugh at. But let him paſs with all the Honour he has got: I grant he was a famous Wit, and ſo I leave him. And till I be better informed, which I am always willing to be, I apprehend the Matter thus,
+<list>
+                  <pb n="48" facs="tcp:35889:29"/>
+                  <item>Spirit
+<list>
+                        <item>Subſtance</item>
+                        <item>penetrable</item>
+                        <item>unextended.</item>
+                     </list>
+                  </item>
+                  <item>Body
+<list>
+                        <item>Subſtance</item>
+                        <item>extended</item>
+                        <item>impenetrable.</item>
+                     </list>
+                  </item>
+                  <item>Space, or <hi>Vacuum</hi>
+                     <list>
+                        <item>penetrable</item>
+                        <item>extended</item>
+                        <item>no Subſtance.</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>Thirdly; But becauſe it may be wondred at by ſome, that a pure No<g ref="char:EOLhyphen"/>thing ſhould have Extenſion; I make this Suppoſition, which indeed has been made by others, but the Inference a<g ref="char:EOLhyphen"/>riſing
+<pb n="49" facs="tcp:35889:29"/>
+thence I never yet ſaw anſwered by any. It cannot be denied but that God Almighty, who made all Things out of Nothing, can reduce again all Things into Nothing at his Pleaſure, and can, if he ſhould think it fit, annihilate the whole World, or any part thereof. Suppoſe then a Chamber, or any de<g ref="char:EOLhyphen"/>terminate Space, ſo many Yards (be it more or leſs) in Length, Breadth and Height; and that God by his Almigh<g ref="char:EOLhyphen"/>ty Power ſhould annihilate the Air within this Chamber, and make it a Space purely void, permitting the Walls to ſtand: I would enquire of any Man that is not under a violent Prejudice, whether this Chamber would not have the ſame Dimenſions it had before? And would it not be all one, as to Length, Breadth and Deepneſs, whether it were filled with Lead or with Hay? or whether it had Air within it, or were quite empty? Now this being ſuppoſed, it is evident that a <hi>Vacuum</hi> may be extended, and con<g ref="char:EOLhyphen"/>ſequently
+<pb n="50" facs="tcp:35889:30"/>
+that Simple Extenſion is not the full and adequate Notion of a Body.</p>
+            <p>And this may be ſufficient for an Eſſay; in which I have ſet down my Thoughts, without deſign of Dogma<g ref="char:EOLhyphen"/>tizing or Impoſing. I write for my own Inſtruction. And if any Man will rectify and improve what I have left rude and imperfect, he will much oblige me: if none will be ſo kind, I ſhall however obtain another End which I propoſe to my ſelf, namely, innocent Diverſion, and the Pleaſure of Speculation.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:35889:30"/>
+            <head>BOOKS ſold by <hi>Andrew Bell</hi> at the Croſs-keys and Bible in <hi>Corn<g ref="char:EOLhyphen"/>hil,</hi> near <hi>Stocks-market.</hi>
+            </head>
+            <p>THE General Hiſtory of <hi>England,</hi> both Eccleſiaſtical and Civil, from the earlieſt Accounts of Time, to the Reign of his preſent Majeſty King <hi>William</hi> III. Taken from the moſt Antient Records, Manuſcripts, and Hiſtorians. Containing the Lives of the Kings, and Memorials of the moſt Eminent Perſons both in Church and State. With the Foundations of the Noted Monaſteries, and both the Univerſities. Vol. I. By <hi>James Tyrrel,</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Fol.</hi>
+            </p>
+            <p>A New Hiſtory of Eccleſiaſtical Writers: Contain<g ref="char:EOLhyphen"/>ing an Account of the Authors of the ſeveral Books of the Old and New Teſtament; and the Lives and Wri<g ref="char:EOLhyphen"/>tings of the Primitive Fathers; An Abridgment and Catalogue of all their Works, <hi>&amp;c.</hi> To which is added, A Compendious Hiſtory of the Councils, <hi>&amp;c.</hi> Written in French by <hi>Lewis Ellies du Pin,</hi> Doctor of the <hi>Sorbon.</hi> In ſeven Volumes. <hi>Fol.</hi>
+            </p>
+            <p>A Detection of the Court and State of <hi>England</hi> during the Four laſt Reigns, and the <hi>Interregnum.</hi> Conſiſting of Private Memoirs, <hi>&amp;c.</hi> with Obſerva<g ref="char:EOLhyphen"/>tions and Reflections: And an <hi>Appendix,</hi> diſcovering the preſent State of the Nation. Wherein are many <hi>Secrets</hi> never before made publick; as alſo, a more impartial Account of the <hi>Civil Wars</hi> in <hi>England,</hi> than has yet been given. By <hi>Rog. Coke,</hi> 
+               <abbr>Eſq</abbr> The third Edition much corrected, with an Alphabetical Table.</p>
+            <gap reason="missing" extent="1 page">
+               <desc>〈1 page missing〉</desc>
+            </gap>
+            <pb n="50" facs="tcp:35889:31"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
